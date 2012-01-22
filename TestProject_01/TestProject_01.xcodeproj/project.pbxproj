@@ -21,6 +21,7 @@
 		CEE3A47014CBCA99002897B7 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE3A46F14CBCA99002897B7 /* second@2x.png */; };
 		CEE3A47314CBCA99002897B7 /* FirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEE3A47114CBCA99002897B7 /* FirstViewController.xib */; };
 		CEE3A47614CBCA99002897B7 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEE3A47414CBCA99002897B7 /* SecondViewController.xib */; };
+		CEE3A47E14CBCBD0002897B7 /* TestClass01.m in Sources */ = {isa = PBXBuildFile; fileRef = CEE3A47D14CBCBD0002897B7 /* TestClass01.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,8 @@
 		CEE3A46F14CBCA99002897B7 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		CEE3A47214CBCA99002897B7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FirstViewController.xib; sourceTree = "<group>"; };
 		CEE3A47514CBCA99002897B7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondViewController.xib; sourceTree = "<group>"; };
+		CEE3A47C14CBCBD0002897B7 /* TestClass01.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestClass01.h; sourceTree = "<group>"; };
+		CEE3A47D14CBCBD0002897B7 /* TestClass01.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestClass01.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 				CEE3A47114CBCA99002897B7 /* FirstViewController.xib */,
 				CEE3A47414CBCA99002897B7 /* SecondViewController.xib */,
 				CEE3A45814CBCA99002897B7 /* Supporting Files */,
+				CEE3A47C14CBCBD0002897B7 /* TestClass01.h */,
+				CEE3A47D14CBCBD0002897B7 /* TestClass01.m */,
 			);
 			path = TestProject_01;
 			sourceTree = "<group>";
@@ -189,6 +194,7 @@
 				CEE3A46214CBCA99002897B7 /* AppDelegate.m in Sources */,
 				CEE3A46514CBCA99002897B7 /* FirstViewController.m in Sources */,
 				CEE3A46C14CBCA99002897B7 /* SecondViewController.m in Sources */,
+				CEE3A47E14CBCBD0002897B7 /* TestClass01.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
